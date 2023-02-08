@@ -1,5 +1,5 @@
 # Concurrency CLI Sample
-***Make sure to read my article on Swift concurrency in a commandline tool before exploring this sample project.***
+***Make sure to [read my article](https://nonstrict.eu/blog/2023/using-async-await-in-a-commandline-tool-on-older-macos-versions/) on Swift concurrency in a commandline tool before exploring this sample project.***
 
 Minimal sample to demonstrates executables using Swift concurrency crash when running on macOS 10.15 Catalina and macOS 11 Big Sur out of the box.
 
